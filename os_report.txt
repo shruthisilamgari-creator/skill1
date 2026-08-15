@@ -1,0 +1,24 @@
+Linux Hardware Resources and OS Services Report
+
+1. uname -a
+Purpose:
+Displays Linux kernel and system information.
+
+2. lscpu
+Purpose:
+Displays CPU architecture and processor details.
+
+3. lsblk
+Purpose:
+Displays storage devices and partitions.
+
+4. ps
+Purpose:
+Displays currently running processes.
+
+5. top
+Purpose:
+Displays real-time system resource utilization.
+
+Relationship between Hardware and Operating System:
+The Linux operating system provides an abstraction layer between applications and hardware resources. It manages CPU resources, memory, storage devices, and running processes. Commands such as lscpu and lsblk provide information about hardware resources, while ps and top show how the operating system manages running processes and system resources.
